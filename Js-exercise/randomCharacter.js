@@ -43,4 +43,3 @@ function randomalpha(stringLen){
 }
 randomalpha(3)
 
-//Test
