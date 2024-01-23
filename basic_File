@@ -40,6 +40,12 @@ git push
 Git add:  This command will select the file, which you want to push it to Git.
 Git commit: It's like making a note of what changes have been made. You can write.
 Git push: Once you make a commit, use this command to push those commits to GitHub.
+Git Status: Shows the status of all the edited files
 
 
-//test
+Important to note: 
+- You have to generate private key to push files to git
+- git doesn't accept password anymore.
+- Make sure you are in correct path
+
+
