@@ -42,3 +42,5 @@ function randomalpha(stringLen){
     }console.log(randomChar)
 }
 randomalpha(3)
+
+//Test
