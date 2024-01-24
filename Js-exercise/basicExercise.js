@@ -1,5 +1,5 @@
 //1
-/////////////////////////////REVERSE A STRING/////////////////
+/////////////////////////////     REVERSE A STRING      /////////////////
 
 var str = "I am a string"
 console.log(str.split("").reverse().join(""));
@@ -7,7 +7,6 @@ console.log(str.split("").reverse().join(""));
 //.split()- Converts string to an array   >> ['I', ' ', 'a', 'm', ' ', 'a', ' ', 's', 't', 'r', 'i', 'n', 'g']
 //.reverse() - Reverse the array     >> ['g', 'n', 'i', 'r', 't', 's', ' ', 'a', ' ', 'm', 'a', ' ', 'I']
 //.join("")  - Join all elements of an array into a string   >> 'gnirts a ma I'
-
 
 
 //for loop
@@ -27,7 +26,7 @@ console.log(newStng)
 
 
 //2
-/////////////////////////////FACTORIAL/////////////////
+/////////////////////////////     FACTORIAL     /////////////////
 
 function factorial(n){
     if(n===0 || n===1){
@@ -49,7 +48,7 @@ factorial(n)
 
 
 //3
-////////////////////////////Palindrome////////////
+////////////////////////////      Palindrome      ////////////
 
 function isPalindrome(str) {
     const reversedStr = str.split("").reverse().join("");
